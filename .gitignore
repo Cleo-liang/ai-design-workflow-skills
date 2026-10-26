@@ -1,0 +1,12 @@
+_research/
+*.pdf
+*.zip
+*.dmg
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+.env
+.env.*
+node_modules/
